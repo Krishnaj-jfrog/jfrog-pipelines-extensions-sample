@@ -1,5 +1,5 @@
 configuration:
-  healthCheckUrlTest:
+  healthCheckUrl:
     type: Url
   notifyOnSuccess:
     type: Boolean
