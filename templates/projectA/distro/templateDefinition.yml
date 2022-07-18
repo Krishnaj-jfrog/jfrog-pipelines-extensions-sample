@@ -1,6 +1,3 @@
-template: true   # required for local templates
-valuesFilePath: ./values.yml
-
 resources:
   # Build info of first build to bundle
   - name: gosvc_promoted_build_info
